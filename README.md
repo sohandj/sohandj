@@ -1,5 +1,3 @@
-
-
 # 📚 Project Details
 Project Title: Technical Discussion Forum
 
@@ -11,7 +9,7 @@ Backend: PHP
 
 Database: MySQL
 
-Education:
+### Education:
 
 # Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
 
@@ -31,7 +29,7 @@ Version Control: Git, GitHub
 
 Operating Systems: Linux
 
-Tools/Software:
+### Tools/Software:
 
 MS Power BI (Beginner)
 
