@@ -1,3 +1,8 @@
+# Sohan D J
+**Computer Science Engineer 2025**
+**Cyber Security Enthusiast**
+**Learning MERN Stack**
+
 # 📚 Project Details
 Project Title: Technical Discussion Forum
 
