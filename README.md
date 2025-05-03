@@ -6,6 +6,7 @@
 Technologies Used:
 Frontend: HTML, CSS, Bootstrap, JavaScript
 Backend: PHP
+https://img.shields.io/badge/Backend-PHP-blue
 Database: MySQL
 
 # Education:
