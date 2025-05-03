@@ -24,3 +24,7 @@
 ### Tools/Software:
 - MS Power BI (Beginner)
 - Burp Suite (Beginner)
+
+## Let's Connect : 
+- Email ID: shivasohandj@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/sohan-dj-70956a228/ 
