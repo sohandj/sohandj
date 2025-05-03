@@ -1,6 +1,5 @@
-# Sohan D J
-**Computer Science Engineer 2025 | Cyber Security Enthusiast | Learning MERN Stack**
-
+<h1 align="center">Hi 👋, I'm Sohan D J</h1>
+<h3 align="center">Computer Science Engineer 2025 | Cyber Security Enthusiast | Learning MERN Stack </h3>
 
 # 📚 Project Details
 - Project Title: Technical Discussion Forum
