@@ -3,14 +3,14 @@
 
 
 # 📚 Project Details
-Project Title: Technical Discussion Forum
+- Project Title: Technical Discussion Forum
 Technologies Used:
 Frontend: HTML, CSS, Bootstrap, JavaScript
 Backend: PHP
 Database: MySQL
 
-### Education:
-# Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
+# Education:
+## Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
 University: Visvesvaraya Technological University (VTU)
 Grade: 7.8 CGPA
 
