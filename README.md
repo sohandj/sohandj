@@ -3,25 +3,24 @@
 
 # 📚 Project Details
 - Project Title: Technical Discussion Forum
-Technologies Used:
-Frontend: HTML, CSS, Bootstrap, JavaScript
-Backend: PHP
-https://img.shields.io/badge/Backend-PHP-blue
-Database: MySQL
+- Technologies Used:
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Backend: PHP
+- Database: MySQL
 
 # Education:
 ## Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
-University: Visvesvaraya Technological University (VTU)
-Grade: 7.8 CGPA
+- University: Visvesvaraya Technological University (VTU)
+- Grade: 7.8 CGPA
 
 ### 🛠️ Technical Skills
-Programming Languages: PHP, SQL
+- Programming Languages: PHP, SQL
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-Frameworks/Libraries: Bootstrap
-Database Management: MySQL
-Version Control: Git, GitHub
-Operating Systems: Linux
+- Frameworks/Libraries: Bootstrap
+- Database Management: MySQL
+- Version Control: Git, GitHub
+- Operating Systems: Linux
 
 ### Tools/Software:
-MS Power BI (Beginner)
-Burp Suite (Beginner)
+- MS Power BI (Beginner)
+- Burp Suite (Beginner)
