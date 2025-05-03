@@ -15,7 +15,8 @@ University: Visvesvaraya Technological University (VTU)
 Grade: 7.8 CGPA
 
 ### 🛠️ Technical Skills
-Programming Languages: HTML, CSS, JavaScript, Java, Python, PHP, SQL
+Programming Languages: PHP, SQL
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)style=flat&logo=javascript&logoColor=%23F7DF1E) 
 Frameworks/Libraries: Bootstrap
 Database Management: MySQL
 Version Control: Git, GitHub
