@@ -12,8 +12,8 @@
 - Database: MySQL
 
 <h3 align="center"> 📚 Education: </h3>
-# 
-## Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
+ 
+### Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
 - University: Visvesvaraya Technological University (VTU)
 - Grade: 7.8 CGPA
 
