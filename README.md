@@ -4,8 +4,11 @@
 <h3 align="center"> 📚 Project Details </h3>
 <h3> Project Title: Technical Discussion Forum </h3>
 <h4> Technologies Used:</h4>
+
 - Frontend: HTML, CSS, Bootstrap, JavaScript
+ 
 - Backend: PHP
+
 - Database: MySQL
 
 # Education:
