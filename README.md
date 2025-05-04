@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sohan D J</h1>
 <h3 align="center">Computer Science Engineer 2025 | Cyber Security Enthusiast | Learning MERN Stack </h3>
 
-# 📚 Project Details
+<h3 align="center"> 📚 Project Details </h3>
 - Project Title: Technical Discussion Forum
-- Technologies Used:
--- Frontend: HTML, CSS, Bootstrap, JavaScript
--- Backend: PHP
--- Database: MySQL
+<h4> Technologies Used:</h4>
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Backend: PHP
+- Database: MySQL
 
 # Education:
 ## Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
