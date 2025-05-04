@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sohan D J</h1>
 <h3 align="center">Computer Science Engineer 2025 | Cyber Security Enthusiast | Learning MERN Stack </h3>
 
-<h3 align="center"> 📚 Project Details </h3>
+<h3 align="center"> 💻 Project Details </h3>
 <h3> Project Title: Technical Discussion Forum </h3>
 <h4> Technologies Used:</h4>
 
-- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Frontend: HTML, CSS, Bootstrap, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
  
 - Backend: PHP
 
 - Database: MySQL
 
-# Education:
+<h3 align="center"> 📚 Education: </h3>
+# 
 ## Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
 - University: Visvesvaraya Technological University (VTU)
 - Grade: 7.8 CGPA
