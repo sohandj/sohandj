@@ -4,9 +4,9 @@
 # 📚 Project Details
 - Project Title: Technical Discussion Forum
 - Technologies Used:
-- Frontend: HTML, CSS, Bootstrap, JavaScript
-- Backend: PHP
-- Database: MySQL
+-- Frontend: HTML, CSS, Bootstrap, JavaScript
+-- Backend: PHP
+-- Database: MySQL
 
 # Education:
 ## Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
