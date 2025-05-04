@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineer 2025 | Cyber Security Enthusiast | Learning MERN Stack </h3>
 
 <h3 align="center"> 📚 Project Details </h3>
-- Project Title: Technical Discussion Forum
+<h3> Project Title: Technical Discussion Forum </h3>
 <h4> Technologies Used:</h4>
 - Frontend: HTML, CSS, Bootstrap, JavaScript
 - Backend: PHP
