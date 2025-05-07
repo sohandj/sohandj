@@ -15,7 +15,7 @@
  
 ### Degree: Bachelor of Engineering (B.E.), Computer Science and Engineering
 - University: Visvesvaraya Technological University (VTU)
-- Grade: 7.8 CGPA
+- Grade: 8.1 CGPA
 
 ### 🛠️ Technical Skills
 - Programming Languages: PHP, SQL
