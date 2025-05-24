@@ -5,7 +5,7 @@
 <h3> Project Title: Technical Discussion Forum </h3>
 <h4> Technologies Used:</h4>
 
-- Frontend: HTML, CSS, Bootstrap, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+- Frontend: HTML, CSS, Bootstrap, JavaScript 
  
 - Backend: PHP
 
