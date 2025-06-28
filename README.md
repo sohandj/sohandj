@@ -3,10 +3,13 @@
 
 <h3 align="center"> 💻 Project Details </h3>
 <h3> Project Title: Technical Discussion Forum </h3>
-<h3> Technologies Used:</h3> <br>
-- Frontend: HTML, CSS, Bootstrap, JavaScript <br>
-- Backend: PHP <br>
-- Database: MySQL <br>
+<h3> Technologies Used:</h3>
+
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+  
+- Backend: PHP
+  
+- Database: MySQL 
 
 <h3 align="center"> 📚 Education: </h3>
  
