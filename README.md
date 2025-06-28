@@ -30,4 +30,4 @@
 
 ## Let's Connect : 
 - Email ID: shivasohandj@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/sohan-dj-70956a228/ 
+- LinkedIn: https://www.linkedin.com/in/sohan-dj/ 
