@@ -3,12 +3,9 @@
 
 <h3 align="center"> 💻 Project Details </h3>
 <h3> Project Title: Technical Discussion Forum </h3>
-<h4> Technologies Used:</h4>
-
+<h3> Technologies Used:</h3>
 - Frontend: HTML, CSS, Bootstrap, JavaScript 
- 
 - Backend: PHP
-
 - Database: MySQL
 
 <h3 align="center"> 📚 Education: </h3>
@@ -27,6 +24,7 @@
 ### Tools/Software:
 - MS Power BI (Beginner)
 - Burp Suite (Beginner)
+- Oracle Virtual Machine
 
 ## Let's Connect : 
 - Email ID: shivasohandj@gmail.com 
