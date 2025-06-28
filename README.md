@@ -20,9 +20,9 @@
 ### 🛠️ Technical Skills
 - Programming Languages: Python, JavaScript,PHP, SQL
 - Frameworks/Libraries: Bootstrap
-- Database Management: MySQL
+- Database Management: MySQL Workbench
 - Version Control: Git, GitHub
-- Operating Systems: Linux
+- Operating Systems: Windows 11,Ubuntu, Kali Linux
 
 ### Tools/Software:
 - MS Power BI (Beginner)
